@@ -16,7 +16,7 @@ Watch the complete working demo and explanation:
 ## 🚀 Features
 
 - ✅ **Data Ingestion**  
-  Fetches historical stock data using [Yahoo Finance](https://www.yfinance.info) for selected NIFTY 50 stocks.
+  Fetches historical stock data using [Yahoo Finance](https://finance.yahoo.com/) for selected NIFTY 50 stocks.
 
 - 📊 **Trading Strategy Logic**  
   Implements a simple rule-based strategy:
