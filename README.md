@@ -4,6 +4,15 @@ A Python-based algorithmic trading bot that combines technical indicators and ba
 
 ---
 
+
+## 🎥 Demo Video
+
+Watch the complete working demo and explanation:
+
+🔗 [Demo Video Folder (Google Drive)](https://drive.google.com/drive/folders/1oAbiveaGSjrWqYFZdPBEAeTIwIGDAzZL?usp=sharing)
+
+---
+
 ## 🚀 Features
 
 - ✅ **Data Ingestion**  
@@ -76,14 +85,6 @@ algo_trading_project/
 
 ---
 
-## 🎥 Demo Video
-
-Watch the complete working demo and explanation:
-
-🔗 [Demo Video Folder (Google Drive)](https://drive.google.com/drive/folders/1oAbiveaGSjrWqYFZdPBEAeTIwIGDAzZL?usp=sharing)
-
----
-
 ## 🧠 Notes
 
 - This is a prototype for educational purposes only.
@@ -96,3 +97,4 @@ Watch the complete working demo and explanation:
 
 **Vipin Choudhary**  
 Feel free to connect for queries or feedback.
+Email - vipinchoudhary0911@gmail.com
